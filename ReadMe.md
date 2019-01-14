@@ -9,9 +9,9 @@
 
 ## Important Capabilities for LPAC (minimum)
 
-lpacCom
-lpacAppExperience
-registryRead
+- lpacCom
+- lpacAppExperience
+- registryRead
 
 
 ## Event Viewer
