@@ -20,7 +20,9 @@ LPAC is essentially Default Deny AppContainer.  You need to give it permissions 
 
 Some example "icacls" commands:
 
+```
 icacls D:\* /grant *S-1-15-2-2:(OI)(CI)(RX) /T
+```
 
 S-1-15-2-2 = ALL RESTRICTED APPLICATION PACKAGES = LPAC
 
