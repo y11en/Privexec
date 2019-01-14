@@ -7,6 +7,13 @@
 
 ## Details:
 
+## Important Capabilities for LPAC (minimum)
+
+lpacCom
+lpacAppExperience
+registryRead
+
+
 ## Event Viewer
 
 Applications and Services Logs > Microsoft > Windows > Security-LessPrivilegedAppContainer > Operational
